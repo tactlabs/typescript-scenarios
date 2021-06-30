@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://tactlabs.github.io/typescript-scenarios/</loc>
     <lastmod>2021-07-01T00:25:59+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://tactlabs.github.io/typescript-scenarios/posts/</loc>
     <lastmod>2021-07-01T00:25:59+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/typescript/</loc>
+    <loc>https://tactlabs.github.io/typescript-scenarios/posts/typescript/</loc>
     <lastmod>2021-07-01T00:25:59+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://tactlabs.github.io/typescript-scenarios/categories/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://tactlabs.github.io/typescript-scenarios/tags/</loc>
   </url>
   
 </urlset>

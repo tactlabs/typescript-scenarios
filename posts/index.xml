@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hugo TypScript Scenarios</title>
-    <link>https://example.com/posts/</link>
+    <link>https://tactlabs.github.io/typescript-scenarios/posts/</link>
     <description>Recent content in Posts on Hugo TypScript Scenarios</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 Jul 2021 00:25:59 +0530</lastBuildDate>
     
-	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tactlabs.github.io/typescript-scenarios/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>TypeScript</title>
-      <link>https://example.com/posts/typescript/</link>
+      <link>https://tactlabs.github.io/typescript-scenarios/posts/typescript/</link>
       <pubDate>Thu, 01 Jul 2021 00:25:59 +0530</pubDate>
       
-      <guid>https://example.com/posts/typescript/</guid>
+      <guid>https://tactlabs.github.io/typescript-scenarios/posts/typescript/</guid>
       <description>100 SCENARIOS 1) Create a simple message on TypeScript
 var message:string = &amp;ldquo;Hello World&amp;rdquo; console.log(message)
 On compiling, it will generate following JavaScript code.
